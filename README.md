@@ -83,7 +83,7 @@
        ```arduino
        http://localhost:8000
 
- ## *Usage
+ ## Usage
    **API Endpoints**
    The application provides a FAST API for predictions.
    
