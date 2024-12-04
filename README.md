@@ -36,11 +36,11 @@
    
    ## **App Screenshots**
    
-      ![Sep1](https://github.com/user-attachments/assets/e4c77c87-0488-44bf-8891-0cee05bfc676)
-       https://github.com/Tiga257/EDA_API_Docker_Project_3/blob/main/image/Sep2.png
-       https://drive.google.com/file/d/1C_kQUGpyX8vrDtmsHhXPQT3nZ-Yy2ZxR/view?usp=drive_link
-       https://drive.google.com/file/d/1EW37tYWVb5cB4FLkT_D92gOJ78O8Vjmf/view?usp=drive_link
-       https://drive.google.com/file/d/16oGAC9mRotFdNKY9o98AKVgqDexPLwYV/view?usp=drive_link  
+![Sep1](https://github.com/user-attachments/assets/713cd3ca-0ce2-41a8-ab00-f4741fbdff31)
+![Sep2](https://github.com/user-attachments/assets/11bfebd2-95e0-4231-a397-d0ce6795a493)
+![Sep3](https://github.com/user-attachments/assets/3c1562ce-ab7e-4f87-832b-d8511f525be4)
+![Sep4](https://github.com/user-attachments/assets/7438393f-96ed-43c7-86ee-b37133397f22)
+![Sep5](https://github.com/user-attachments/assets/954ad6c6-4638-4331-ba7d-ed81437cf363) 
    
    ---
    
