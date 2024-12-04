@@ -83,22 +83,6 @@
        ```arduino
        http://localhost:8000
    
-   ## Usage
-   **API Endpoints**
-   The application provides a REST API for predictions.
-   
-   **POST /predict**
-   **Description**: Accepts patient data in JSON format and returns a sepsis prediction.
-   
-   Response Example:
-   
-   ```json
-   
-       {
-       "prediction: 0"
-       "prediction: 1"
-       }
-
 
 ## **Dataset Description**
 
