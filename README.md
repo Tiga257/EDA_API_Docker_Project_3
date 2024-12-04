@@ -92,8 +92,8 @@
    **Description**: Accepts patient data in CSV format and returns a sepsis prediction.
       
       Response Example:
-         '''json
-         d{
+
+         {
          "prediction: 0"
          "prediction: 1"
          }
