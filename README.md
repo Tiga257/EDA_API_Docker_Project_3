@@ -36,8 +36,8 @@
    
    ## **App Screenshots**
    
-       https://drive.google.com/uc?id=1dGSPxiiLCC1u86d0bT824WqJsGks6pjz
-       https://drive.google.com/file/d/1TOE4GfAajA6k8py0qjUgMk1m22XYY3Vr/view?usp=drive_link_
+      ![Image description]https://github.com/Tiga257/EDA_API_Docker_Project_3/blob/main/image/Sep1.png
+       https://github.com/Tiga257/EDA_API_Docker_Project_3/blob/main/image/Sep2.png
        https://drive.google.com/file/d/1C_kQUGpyX8vrDtmsHhXPQT3nZ-Yy2ZxR/view?usp=drive_link
        https://drive.google.com/file/d/1EW37tYWVb5cB4FLkT_D92gOJ78O8Vjmf/view?usp=drive_link
        https://drive.google.com/file/d/16oGAC9mRotFdNKY9o98AKVgqDexPLwYV/view?usp=drive_link  
