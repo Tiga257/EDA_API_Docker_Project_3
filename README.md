@@ -88,8 +88,9 @@
    The application provides a FAST API for predictions.
    
    **POST /predict**
-   **Description**: Accepts patient data in CSV format and returns a sepsis prediction.
 
+   **Description**: Accepts patient data in CSV format and returns a sepsis prediction.
+   Response Example:
       '''json
       {
          "prediction: 0"
