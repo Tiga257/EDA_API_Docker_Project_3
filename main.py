@@ -44,16 +44,16 @@ async def predictor(model: str, file: UploadFile = File(...)):
     Eventually returns a json with prediction for each row
 
     """
-    # Load the CSV file
+# Load the CSV file
     try:
         df = pd.read_csv(file.file)
     except Exception as e:
         raise HTTPException(status_code=400, detail=f"Error reading the file: {e}")
 
-    # Verify required features
+# Verify required features
     required_features = models[model].n_features_in_
     if len(df.columns) != required_features:
-        raise HTTPException(status_code=400, detail=f"The model expects {required_features} features, but the file has {len(df.columns)} features")
+        raise HTTPException(status_code=400, detail=f"The model expects {required_features} features, but the file has {len(df.columns).columns} features")
 
     # Convert to array
     features = df.values
@@ -62,7 +62,7 @@ async def predictor(model: str, file: UploadFile = File(...)):
     selected_model = models[model]
 
     # Make predictions
-    predictions = selected_model.predict(features)
+    predictions = selected_model.predict(df)
 
     # Show response
     results = {
