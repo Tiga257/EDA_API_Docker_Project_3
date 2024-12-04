@@ -90,9 +90,10 @@
    **POST /predict**
 
    **Description**: Accepts patient data in CSV format and returns a sepsis prediction.
-   Response Example:
-      '''json
-      {
+      
+      Response Example:
+         '''json
+         d{
          "prediction: 0"
          "prediction: 1"
          }
